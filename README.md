@@ -2,3 +2,6 @@
 
 Just clone the repository to your machine , and run your server for django . 
 Make sure python and Django is installed in your environment . 
+
+
+password for testingmail@gmail.com is testing123
